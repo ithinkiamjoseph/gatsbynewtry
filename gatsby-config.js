@@ -80,8 +80,7 @@ module.exports = {
     {
       resolve: `gatsby-plugin-sharp`,
     },
-    
-    },
+   
     {
       resolve: `gatsby-plugin-feed`,
       options: {
@@ -110,7 +109,6 @@ module.exports = {
       resolve: `gatsby-plugin-lodash`,
     },
     
-    },
     {
       resolve: 'gatsby-plugin-web-font-loader',
       options: {
