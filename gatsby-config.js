@@ -4,12 +4,12 @@ require('dotenv').config({
 
 module.exports = {
   siteMetadata: {
-    title: `StoryHub`,
-    author: `David`,
+    title: `Joseph Wood`,
+    author: `Joseph Wood`,
     about: `Breakfast procuring no end happiness allowance assurance frank. Met simplicity nor difficulty unreserved who. Entreaties mr conviction dissimilar me
     astonished estimating cultivated.`,
-    description: `A Gatsby Blog`,
-    siteUrl: `https://storyhub-minimal-tarex.redq.now.sh`,
+    description: `My Gatsby Blog`,
+    siteUrl: `https://ithinkiamjoseph.github.io/gatsbynewtry/`,
   },
   plugins: [
     {
